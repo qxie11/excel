@@ -24,6 +24,7 @@
   "homepage": "https://github.com/qxie11/excel#readme",
   "devDependencies": {
     "@babel/core": "^7.12.3",
+    "@babel/plugin-proposal-class-properties": "^7.12.1",
     "@babel/polyfill": "^7.12.1",
     "@babel/preset-env": "^7.12.1",
     "babel-eslint": "^10.1.0",
@@ -32,7 +33,6 @@
     "copy-webpack-plugin": "^6.2.1",
     "cross-env": "^7.0.2",
     "css-loader": "^5.0.0",
-    "eslint": "^7.12.1",
     "eslint-config-google": "^0.14.0",
     "eslint-loader": "^4.0.2",
     "html-webpack-plugin": "^4.5.0",
