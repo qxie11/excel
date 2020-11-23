@@ -37,7 +37,7 @@
     "eslint-loader": "^4.0.2",
     "html-webpack-plugin": "^4.5.0",
     "mini-css-extract-plugin": "^1.2.1",
-    "node-sass": "^4.14.1",
+    "node-sass": "^4.0.0",
     "sass-loader": "^10.0.4",
     "webpack": "^4.32.2",
     "webpack-cli": "^3.3.0",
