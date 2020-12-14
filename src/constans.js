@@ -5,4 +5,4 @@ export const defaultStyles = {
     fontStyle: 'normal'
 };
 
-export const defaultTitle = "Новая_таблица";
+export const defaultTitle = "Новая таблица";
